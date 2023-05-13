@@ -5,7 +5,7 @@
 # The System Design Primer
 
 <p align="center">
-  <img src="images/jj3A5N8.png">
+  <img width="617" alt="jj3A5N8" src="https://github.com/Himasnhu-AT/System-Designing/assets/117301124/625c3d14-21a2-4f78-8253-49262c3223cd">
   <br/>
 </p>
 
@@ -15,7 +15,9 @@
 
 > Suggested topics to review based on your interview timeline (short, medium, long).
 
-![Imgur](images/OfVllex.png)
+![OfVllex](https://github.com/Himasnhu-AT/System-Designing/assets/117301124/bcb5ced1-a163-4fee-8bde-3097eb5b2c38)
+
+
 
 **Q: For interviews, do I need to know everything here?**
 
@@ -138,49 +140,57 @@ Check out the following links to get a better idea of what to expect:
 
 [View exercise and solution](solutions/system_design/pastebin/README.md)
 
-![Imgur](images/4edXG0T.png)
+<img width="468" alt="4edXG0T" src="https://github.com/Himasnhu-AT/System-Designing/assets/117301124/9e2fed19-8617-4a63-a66d-08d255cb0ef6">
+
 
 ### Design the Twitter timeline and search (or Facebook feed and search)
 
 [View exercise and solution](solutions/system_design/twitter/README.md)
 
-![Imgur](images/jrUBAF7.png)
+![jrUBAF7](https://github.com/Himasnhu-AT/System-Designing/assets/117301124/cca2bb0b-42ed-4ad0-8ab4-53ced20be7b7)
+
 
 ### Design a web crawler
 
 [View exercise and solution](solutions/system_design/web_crawler/README.md)
 
-![Imgur](images/bWxPtQA.png)
+![bWxPtQA](https://github.com/Himasnhu-AT/System-Designing/assets/117301124/1643d139-866e-4cc5-a4cb-b843b82b888d)
+
 
 ### Design Mint.com
 
 [View exercise and solution](solutions/system_design/mint/README.md)
 
-![Imgur](images/V5q57vU.png)
+<img width="654" alt="V5q57vU" src="https://github.com/Himasnhu-AT/System-Designing/assets/117301124/b9f4518f-b297-46d1-bd26-b944ec866321">
+
 
 ### Design the data structures for a social network
 
 [View exercise and solution](solutions/system_design/social_graph/README.md)
 
-![Imgur](images/cdCv5g7.png)
+<img width="387" alt="cdCv5g7" src="https://github.com/Himasnhu-AT/System-Designing/assets/117301124/34104ea3-4b3c-4837-9e6c-be3853538944">
+
 
 ### Design a key-value store for a search engine
 
 [View exercise and solution](solutions/system_design/query_cache/README.md)
 
-![Imgur](images/4j99mhe.png)
+<img width="271" alt="4j99mhe" src="https://github.com/Himasnhu-AT/System-Designing/assets/117301124/c7435622-02bc-4a39-b971-8520885f2275">
+
 
 ### Design Amazon's sales ranking by category feature
 
 [View exercise and solution](solutions/system_design/sales_rank/README.md)
 
-![Imgur](images/MzExP06.png)
+<img width="462" alt="MzExP06" src="https://github.com/Himasnhu-AT/System-Designing/assets/117301124/c5e7d525-4c38-4079-8152-344bc275dc3b">
+
 
 ### Design a system that scales to millions of users on AWS
 
 [View exercise and solution](solutions/system_design/scaling_aws/README.md)
 
-![Imgur](images/jj3A5N8.png)
+<img width="617" alt="jj3A5N8" src="https://github.com/Himasnhu-AT/System-Designing/assets/117301124/7e3f3aab-bf8c-4b68-a6ad-5c5fdde6285f">
+
 
 ## Object-oriented design interview questions with solutions
 
