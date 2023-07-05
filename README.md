@@ -127,7 +127,7 @@ Check out the following links to get a better idea of what to expect:
 | Design a system that scales to millions of users on AWS | [Solution](solutions/system_design/scaling_aws/README.md) |
 | Add a system design question | [Contribute](#contributing) |
 
-## Demo designs
+<!-- ## Demo designs
 
 > Common object-oriented design interview questions with sample discussions, code, and diagrams.
 >
@@ -195,7 +195,7 @@ Check out the following links to get a better idea of what to expect:
 | Design a parking lot | [Solution](solutions/object_oriented_design/parking_lot/parking_lot.ipynb)  |
 | Design a chat server | [Solution](solutions/object_oriented_design/online_chat/online_chat.ipynb)  |
 | Design a circular array | [Contribute](#contributing)  |
-| Add an object-oriented design question | [Contribute](#contributing) |
+| Add an object-oriented design question | [Contribute](#contributing) | -->
 
 
 
